@@ -47,3 +47,6 @@ Development and Contributions
 This project is a prototype designed to demonstrate a proof-of-concept. The analysis is based on a simplified, rule-based system and should not replace professional medical advice.
 
 This project was built for the Confluentia Hackathon.
+
+
+WORKING MVP: https://tan-mersey-63.tiiny.site
